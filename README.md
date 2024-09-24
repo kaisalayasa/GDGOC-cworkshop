@@ -1,2 +1,2 @@
 # GDG-OC workshop
-GDGOC
+
