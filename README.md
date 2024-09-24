@@ -1,2 +1,2 @@
-# GDGOC-cworkshop
+# GDG-OC workshop
 GDGOC
